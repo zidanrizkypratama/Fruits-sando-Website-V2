@@ -1,0 +1,44 @@
+body{
+    background-color:  #F7F9F2;
+}
+
+#content{
+    padding-top: 6rem;
+}
+#content h1{
+    color: #FF5580;
+}
+.hr1{
+    border: 2px solid black;
+}
+#content h3{
+    font-weight: lighter;
+    font-size: large;
+}
+
+#content2{
+    padding-top: 8rem;
+}
+#content2 h1{
+    color: #FFAA80;
+}
+#content2 h2{
+    font-weight: lighter;
+    font-size: larger;
+}
+
+#menu{
+    padding-top: 5rem;
+}
+#menu h2{
+    color: #B6C7AA;
+}
+
+footer{
+    padding-top: 5rem;
+}
+
+#ads{
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
